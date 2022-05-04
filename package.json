@@ -1,0 +1,17 @@
+{
+    "name": "codechallenge",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "nodemon": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^28.0.3",
+      "nodemon": "^2.0.16"
+    }
+  }
